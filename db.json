@@ -1,1 +1,46 @@
-
+[
+    {
+        "id": 0,
+        "name": "Root",
+        "children": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": 1,
+        "name": "C1",
+        "children": [
+            11,
+            12
+        ]
+    },
+    {
+        "id": 2,
+        "name": "C2",
+        "children": [
+            21
+        ]
+    },
+    {
+        "id": 3,
+        "name": "C3",
+        "children": []
+    },
+    {
+        "id": 11,
+        "name": "C11",
+        "children": []
+    },
+    {
+        "id": 12,
+        "name": "C12",
+        "children": []
+    },
+    {
+        "id": 21,
+        "name": "C21",
+        "children": []
+    }
+]
